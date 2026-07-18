@@ -8,4 +8,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Abhishek980-tech/LeeCode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Abhishek980-tech/LeeCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Abhishek980-tech/LeeCode/tree/master/1683-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishek980-tech/LeeCode/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishek980-tech/LeeCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishek980-tech/LeeCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
